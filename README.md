@@ -10,11 +10,14 @@ I changed what you would see based on the zoom
 // 
 mapboxgl.acessToken = 'pk.eyJ1IjoiamVzc2ljYWxpY2tsaXRlciIsImEiOiJjbW9jN3NrazUwOWViMnNxMXRrcHZtaW9qIn0.hfi6DW739PZbY6LdpMKkJg'; //
 // 
+
 var map = new mapboxgl.Map({
 container: 'map',
+
 // 
 style: 'mapbox://styles/jessicalickliter/cmohutnhb003501s67qd21diz', //
 //
+
 //
 zoom:6.30
 center: [-84.967448, 37.665919]
